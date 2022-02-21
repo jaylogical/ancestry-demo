@@ -68,8 +68,11 @@ GEM
       tzinfo (~> 2.0)
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
+<<<<<<< HEAD
     ancestry (4.1.0)
       activerecord (>= 5.2.6)
+=======
+>>>>>>> 9a536fd2b3226de4984130ae3784a75e92bba82d
     bindex (0.8.1)
     bootsnap (1.10.3)
       msgpack (~> 1.2)
@@ -216,7 +219,10 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+<<<<<<< HEAD
   ancestry
+=======
+>>>>>>> 9a536fd2b3226de4984130ae3784a75e92bba82d
   bootsnap
   capybara
   debug
