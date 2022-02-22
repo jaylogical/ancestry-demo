@@ -19,6 +19,10 @@ men_accessories = Category.create(name: 'Accessories', parent: men)
 men_shoes = Category.create(name: 'Shoes', parent: men)
 sneakers = Category.create(name: 'Sneaker', parent: men_shoes)
 formal = Category.create(name: 'Formal', parent: men_shoes)
+men_belts = Category.create(name: 'Belts', parent: men_accessories)
+men_wallets = Category.create(name: 'Wallets', parent: men_accessories)
+dress_belts = Category.create(name: 'Dress Belt', parent: men_belts)
+formal_belts = Category.create(name: 'Formal Belt', parent: men_belts)
 
 
 ### Products
