@@ -4,7 +4,6 @@
 # Examples:
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
-<<<<<<< HEAD
 #   Character.create(name: "Luke", movie: movies.first)sni
 
 women = Category.create(name: 'Women')
@@ -33,6 +32,3 @@ Product.create(name: 'Man Accessory', category: men_accessories)
 Product.create(name: 'Man Shoe', category: men_shoes)
 Product.create(name: 'Sneakers', category: men_shoes)
 Product.create(name: 'Formal', category: men_shoes)
-=======
-#   Character.create(name: "Luke", movie: movies.first)
->>>>>>> 9a536fd2b3226de4984130ae3784a75e92bba82d
